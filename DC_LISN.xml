@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/m/Checkouts_HW/DC_LISN/DC_LISN.sch</source>
+    <date>01.12.2017 17:33:59</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DC_LISN.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <footprint>MST_Lib:C_1210</footprint>
+      <fields>
+        <field name="Hersteller">Samsung</field>
+        <field name="Teilenummer">CL32B475KCVZW6E</field>
+        <field name="Spannung">100V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A10BF25</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>MST_Lib:C_1206</footprint>
+      <fields>
+        <field name="Hersteller">Samsung</field>
+        <field name="Teilenummer">CL31B104KEHSNNE</field>
+        <field name="Spannung">250V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A10C481</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>470nF</value>
+      <footprint>MST_Lib:C_0805</footprint>
+      <fields>
+        <field name="Hersteller">Samsung</field>
+        <field name="Teilenummer">CL21B474KBFNNNE</field>
+        <field name="Spannung">50V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A10C670</tstamp>
+    </comp>
+    <comp ref="V4">
+      <value>1N4148W</value>
+      <footprint>MST_Lib:V_SOD-123</footprint>
+      <fields>
+        <field name="Hersteller">Diodes</field>
+        <field name="Teilenummer">1N4148W</field>
+      </fields>
+      <libsource lib="MST_Lib" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A10C888</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>619R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11099C</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>18.2R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A110B56</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>562R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A110BDE</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>432R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A112FC0</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>432R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A112FC6</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>1mH</value>
+      <footprint>MST_Lib:L_1210</footprint>
+      <fields>
+        <field name="Hersteller">Taiyo Yuden</field>
+        <field name="Teilenummer">CBC3225T102KR</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A113754</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>30.1R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A113BE5</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>1.1uH</value>
+      <footprint>MST_Lib:L_Wuerth_744314110</footprint>
+      <fields>
+        <field name="Hersteller">Wuerth</field>
+        <field name="Teilenummer">744314110</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A113F1C</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>432R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A114465</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>432R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11446B</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>470nF</value>
+      <footprint>MST_Lib:C_0805</footprint>
+      <fields>
+        <field name="Hersteller">Samsung</field>
+        <field name="Teilenummer">CL21B474KBFNNNE</field>
+        <field name="Spannung">50V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A115C63</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>27uF</value>
+      <footprint>MST_Lib:C_Alu_Radial_D8.0mm_P3.50mm</footprint>
+      <fields>
+        <field name="Hersteller">Nichicon</field>
+        <field name="Teilenummer">UHE2A270MPD</field>
+        <field name="Spannung">100V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A116121</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>MST_Lib:C_1206</footprint>
+      <fields>
+        <field name="Hersteller">Samsung</field>
+        <field name="Teilenummer">CL31B104KEHSNNE</field>
+        <field name="Spannung">250V</field>
+      </fields>
+      <libsource lib="MST_Lib" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1165B2</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>1.1uH</value>
+      <footprint>MST_Lib:L_Wuerth_744314110</footprint>
+      <fields>
+        <field name="Hersteller">Wuerth</field>
+        <field name="Teilenummer">744314110</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1172C9</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>1.1uH</value>
+      <footprint>MST_Lib:L_Wuerth_744314110</footprint>
+      <fields>
+        <field name="Hersteller">Wuerth</field>
+        <field name="Teilenummer">744314110</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A117327</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>1.1uH</value>
+      <footprint>MST_Lib:L_Wuerth_744314110</footprint>
+      <fields>
+        <field name="Hersteller">Wuerth</field>
+        <field name="Teilenummer">744314110</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A117398</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>1.1uH</value>
+      <footprint>MST_Lib:L_Wuerth_744314110</footprint>
+      <fields>
+        <field name="Hersteller">Wuerth</field>
+        <field name="Teilenummer">744314110</field>
+      </fields>
+      <libsource lib="MST_Lib" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A117408</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>274R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A117C89</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>243R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A117C8F</tstamp>
+    </comp>
+    <comp ref="V3">
+      <value>1N4148W</value>
+      <footprint>MST_Lib:V_SOD-123</footprint>
+      <fields>
+        <field name="Hersteller">Diodes</field>
+        <field name="Teilenummer">1N4148W</field>
+      </fields>
+      <libsource lib="MST_Lib" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1183E4</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>12.1R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1186C6</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>909R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A118837</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>825R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11883D</tstamp>
+    </comp>
+    <comp ref="V2">
+      <value>1N4148W</value>
+      <footprint>MST_Lib:V_SOD-123</footprint>
+      <fields>
+        <field name="Hersteller">Diodes</field>
+        <field name="Teilenummer">1N4148W</field>
+      </fields>
+      <libsource lib="MST_Lib" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1193A8</tstamp>
+    </comp>
+    <comp ref="V1">
+      <value>1N4148W</value>
+      <footprint>MST_Lib:V_SOD-123</footprint>
+      <fields>
+        <field name="Hersteller">Diodes</field>
+        <field name="Teilenummer">1N4148W</field>
+      </fields>
+      <libsource lib="MST_Lib" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1193AE</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>261R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11A95F</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>261R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11AB83</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>261R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11ABC8</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>261R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11AC0E</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>261R</value>
+      <footprint>MST_Lib:R_0603</footprint>
+      <libsource lib="MST_Lib" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11AC5F</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>B8B-EH-A</value>
+      <footprint>MST_Lib:X_JST_EH_B08B-EH-A_08x2.50mm_Straight</footprint>
+      <fields>
+        <field name="Hersteller">JST</field>
+        <field name="Teilenummer">B8B-EH-A</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11B16F</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>PCB.SMAFRA.HT</value>
+      <footprint>MST_Lib:X_SMA_THT_Jack_Straight_PCB.SMAFRA.HT</footprint>
+      <fields>
+        <field name="Hersteller">Taoglas Limited</field>
+        <field name="Teilenummer">PCB.SMAFRA.HT</field>
+      </fields>
+      <libsource lib="conn" part="Conn_Coaxial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11B4B7</tstamp>
+    </comp>
+    <comp ref="X3">
+      <value>B8B-EH-A</value>
+      <footprint>MST_Lib:X_JST_EH_B08B-EH-A_08x2.50mm_Straight</footprint>
+      <fields>
+        <field name="Hersteller">JST</field>
+        <field name="Teilenummer">B8B-EH-A</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11B75D</tstamp>
+    </comp>
+    <comp ref="X4">
+      <value>575-4</value>
+      <footprint>MST_Lib:X_Keystone_575-4</footprint>
+      <fields>
+        <field name="Hersteller">Keystone</field>
+        <field name="Teilenummer">575-4</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11F19E</tstamp>
+    </comp>
+    <comp ref="X5">
+      <value>575-4</value>
+      <footprint>MST_Lib:X_Keystone_575-4</footprint>
+      <fields>
+        <field name="Hersteller">Keystone</field>
+        <field name="Teilenummer">575-4</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11F24F</tstamp>
+    </comp>
+    <comp ref="X6">
+      <value>575-4</value>
+      <footprint>MST_Lib:X_Keystone_575-4</footprint>
+      <fields>
+        <field name="Hersteller">Keystone</field>
+        <field name="Teilenummer">575-4</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A11FE0E</tstamp>
+    </comp>
+    <comp ref="X7">
+      <value>575-4</value>
+      <footprint>MST_Lib:X_Keystone_575-4</footprint>
+      <fields>
+        <field name="Hersteller">Keystone</field>
+        <field name="Teilenummer">575-4</field>
+      </fields>
+      <libsource lib="conn" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A12039C</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>TEST</value>
+      <footprint>MST_Lib:TP_MillMax_2501</footprint>
+      <libsource lib="MST_Lib" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1211A3</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>TEST</value>
+      <footprint>MST_Lib:TP_MillMax_2501</footprint>
+      <libsource lib="MST_Lib" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A121658</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>TEST</value>
+      <footprint>MST_Lib:TP_MillMax_2501</footprint>
+      <libsource lib="MST_Lib" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A121709</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value>TEST</value>
+      <footprint>MST_Lib:TP_MillMax_2501</footprint>
+      <libsource lib="MST_Lib" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A12237B</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TEST</value>
+      <footprint>MST_Lib:TP_1mm</footprint>
+      <libsource lib="MST_Lib" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1226C8</tstamp>
+    </comp>
+    <comp ref="M1">
+      <value>MountingHole</value>
+      <footprint>MST_Lib:M_MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="MST_Lib" part="MountingHole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1609DF</tstamp>
+    </comp>
+    <comp ref="M2">
+      <value>MountingHole</value>
+      <footprint>MST_Lib:M_MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="MST_Lib" part="MountingHole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A160D43</tstamp>
+    </comp>
+    <comp ref="M3">
+      <value>MountingHole</value>
+      <footprint>MST_Lib:M_MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="MST_Lib" part="MountingHole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A160DF5</tstamp>
+    </comp>
+    <comp ref="M4">
+      <value>MountingHole</value>
+      <footprint>MST_Lib:M_MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="MST_Lib" part="MountingHole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A160EAA</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="MST_Lib" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</description>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">V</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="MountingHole">
+      <description>Mounting hole</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MST_Lib" part="TEST">
+      <description>Testpoint, connection for test equipment</description>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TEST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="MST_Lib">
+      <uri>C:\m\Checkouts_HW\KiCadLibrary\MST_Lib.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(L3-Pad1)">
+      <node ref="L3" pin="1"/>
+      <node ref="L4" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="2" name="Net-(L4-Pad1)">
+      <node ref="L6" pin="2"/>
+      <node ref="R12" pin="1"/>
+      <node ref="L4" pin="1"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="3" name="Net-(L1-Pad1)">
+      <node ref="R5" pin="1"/>
+      <node ref="L2" pin="2"/>
+      <node ref="L1" pin="1"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="4" name="Net-(L2-Pad1)">
+      <node ref="R11" pin="2"/>
+      <node ref="L3" pin="2"/>
+      <node ref="L2" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="R4" pin="2"/>
+      <node ref="V3" pin="1"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="X3" pin="4"/>
+      <node ref="X3" pin="3"/>
+      <node ref="X3" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="L5" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="V1" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="V2" pin="2"/>
+      <node ref="V4" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="M3" pin="1"/>
+      <node ref="X3" pin="1"/>
+      <node ref="X5" pin="1"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="X7" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="X1" pin="2"/>
+      <node ref="X2" pin="2"/>
+      <node ref="X2" pin="4"/>
+      <node ref="X2" pin="3"/>
+      <node ref="X2" pin="1"/>
+      <node ref="M4" pin="1"/>
+      <node ref="TP5" pin="1"/>
+      <node ref="M1" pin="1"/>
+      <node ref="M2" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="7" name="/DUT+">
+      <node ref="L6" pin="1"/>
+      <node ref="X3" pin="8"/>
+      <node ref="R13" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="X3" pin="5"/>
+      <node ref="TP4" pin="1"/>
+      <node ref="X3" pin="6"/>
+      <node ref="X3" pin="7"/>
+      <node ref="X6" pin="1"/>
+    </net>
+    <net code="8" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="V4" pin="1"/>
+      <node ref="V3" pin="2"/>
+    </net>
+    <net code="9" name="Net-(C3-Pad2)">
+      <node ref="R10" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="10" name="/-10dB_Out">
+      <node ref="R1" pin="1"/>
+      <node ref="X1" pin="1"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="V1" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="V2" pin="1"/>
+    </net>
+    <net code="11" name="/VIN+">
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="X2" pin="8"/>
+      <node ref="X2" pin="7"/>
+      <node ref="X2" pin="6"/>
+      <node ref="X2" pin="5"/>
+      <node ref="R5" pin="2"/>
+      <node ref="X4" pin="1"/>
+      <node ref="TP2" pin="1"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="L5" pin="1"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C4-Pad1)">
+      <node ref="R14" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="14" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R18" pin="1"/>
+    </net>
+  </nets>
+</export>
