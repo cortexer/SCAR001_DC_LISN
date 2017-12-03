@@ -1,0 +1,32 @@
+Drill report for C:\m\Checkouts_HW\SCAR001_DC_LISN\DC_LISN.kicad_pcb
+Created on 03.12.2017 22:14:22
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    inner1
+    L3 :  In2.Cu                    inner2
+    L4 :  B.Cu                      back
+
+
+Drill file 'DC_LISN.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,30mm  0,012"  (307 holes)
+    T2  0,50mm  0,020"  (32 holes)
+    T3  0,80mm  0,031"  (2 holes)
+    T4  1,00mm  0,039"  (16 holes)
+    T5  1,50mm  0,059"  (2 holes)
+    T6  1,70mm  0,067"  (8 holes)
+    T7  2,35mm  0,093"  (4 holes)
+    T8  3,50mm  0,138"  (4 holes)
+    T9  5,30mm  0,209"  (4 holes)
+
+    Total plated holes count 379
+
+
+Drill file 'DC_LISN-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
