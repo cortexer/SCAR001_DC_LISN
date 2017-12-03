@@ -1132,8 +1132,8 @@ Pos 6550 7350
 Scale 1,000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 00 BE 00 00 00 C8 08 03 00 00 00 61 D1 AB 
-73 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 1B 50 4C 54 45 02 00 00 00 99 B0 00 99 
-B1 00 9A B1 00 98 AF 00 9A B0 00 98 B0 00 99 AF 00 9A AF AE 59 D3 29 00 00 00 01 74 52 4E 53 00 
+73 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 1B 50 4C 54 45 01 00 00 00 99 B0 00 99 
+B1 00 9A B1 00 98 AF 00 9A B0 00 98 B0 00 99 AF 00 9A AF 1D CD FE EA 00 00 00 01 74 52 4E 53 00 
 40 E6 D8 66 00 00 00 09 70 48 59 73 00 00 0F 3C 00 00 0F 3C 01 17 3A 9F 59 00 00 06 24 49 44 41 
 54 78 9C ED 9D EB BA A3 2A 0C 86 05 07 F5 FE AF 78 EF 56 D1 90 04 09 4A A0 3C 8B FC 98 45 21 7C 
 79 41 07 39 F4 30 4D 1A 66 18 53 09 A4 63 7D E3 73 F4 1D F1 0F FC 96 36 F0 1B 9A E5 F1 6D 6B 2E 
@@ -1245,7 +1245,7 @@ Wire Wire Line
 	9700 4100 9900 4100
 Connection ~ 9800 4100
 Text Notes 1300 6400 0    60   ~ 0
-R5, R8, R11, R12 and R13 are damping resistors.\nThey are not mounted by default.\n\nX8 and C7 are not mounted by default.\nThe 10dB attenuator can be used as standalone when\nC5 is unmounted and C7 and X8 are mounted.\n\nTestpoints TP2, TP3, TP4 and TP5 can be used\nto solder wires to the PCB.\nIt is useful when mounting the LISN inside a housing\nusing banana jack binding posts.\nTherefore the X4, X5, X6 and X7 low cost PCB mount\nbanana plugs are not mounted by default.
+R5, R8, R11, R12 and R13 are damping resistors for the inductors.\nThey are not mounted by default.\n\nThe 10dB attenuator can be used as standalone when\nC5 is unmounted and C7 and X8 are mounted.\nC7 and X8 are not mounted by default.\n\nTestpoints TP2, TP3, TP4 and TP5 can be used\nto solder wires to the PCB.\nIt is useful when mounting the LISN inside a housing\nusing banana jack binding posts, which do not  directly\nfit to the PCB.\nTherefore the X4, X5, X6 and X7 low cost PCB mount\nbanana plug sockets are not mounted by default.
 $Comp
 L TEST TP6
 U 1 1 5A2458A2
