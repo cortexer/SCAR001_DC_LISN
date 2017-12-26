@@ -799,7 +799,7 @@ Text Notes 5150 1000 0    98   ~ 20
 Text Notes 4550 1800 0    60   ~ 0
 This is a 5µH DC LISN intended for EMC pre compliance measurements\nof conducted emission.\nIt has an attenuation of -10dB and overvoltage protection.\nIt must be connected to a 50 Ohm spectrum anaylzer input,\nor terminated with 50 Ohm termination resistor.\nThe circuit is a partial implementation of LinearTechnology's\nDC2130A.
 Text Notes 5550 3450 0    60   ~ 0
-VIN+(eff): +48V\nI(eff): 10A\nAttenuation: -10dB\nImpedance: 50 Ohm
+VIN+(eff): +60V\nI(eff): 10A\nAttenuation: -10dB\nImpedance: 50 Ohm
 Text Notes 8200 7650 0    60   ~ 0
 19.11.2017
 Text Notes 10600 7650 0    60   ~ 0
@@ -1123,8 +1123,8 @@ Connection ~ 8600 6150
 Wire Wire Line
 	8900 6150 8900 6200
 Connection ~ 2450 4100
-Text Notes 5100 5850 0    60   ~ 0
-Housing:\nFischer Elektronik\nAKG 71 24 100 ME
+Text Notes 4800 6150 0    60   ~ 0
+Housing:\nFischer Elektronik\nAKG 71 24 100 ME\n\nBanana jack binding posts:\n2x 3760-0 (Pomona, black)\n2x 3760-2 (Pomona, red)\nBinding posts are mounted on the faceplate\nand soldered to TP2, TP3, TP4 and TP5 with short cables.
 Text Notes 8650 6700 0    79   ~ 16
 SCAR001
 $Bitmap
@@ -1132,8 +1132,8 @@ Pos 6550 7350
 Scale 1,000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 00 BE 00 00 00 C8 08 03 00 00 00 61 D1 AB 
-73 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 1B 50 4C 54 45 02 00 00 00 99 B0 00 99 
-B1 00 9A B1 00 98 AF 00 9A B0 00 98 B0 00 99 AF 00 9A AF AE 59 D3 29 00 00 00 01 74 52 4E 53 00 
+73 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 1B 50 4C 54 45 01 00 00 00 99 B0 00 99 
+B1 00 9A B1 00 98 AF 00 9A B0 00 98 B0 00 99 AF 00 9A AF 1D CD FE EA 00 00 00 01 74 52 4E 53 00 
 40 E6 D8 66 00 00 00 09 70 48 59 73 00 00 0F 3C 00 00 0F 3C 01 17 3A 9F 59 00 00 06 24 49 44 41 
 54 78 9C ED 9D EB BA A3 2A 0C 86 05 07 F5 FE AF 78 EF 56 D1 90 04 09 4A A0 3C 8B FC 98 45 21 7C 
 79 41 07 39 F4 30 4D 1A 66 18 53 09 A4 63 7D E3 73 F4 1D F1 0F FC 96 36 F0 1B 9A E5 F1 6D 6B 2E 
